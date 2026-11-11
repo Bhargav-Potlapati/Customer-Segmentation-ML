@@ -142,3 +142,26 @@ The application will open in your browser.
 ## Conclusion
 
 This project demonstrates how Unsupervised Machine Learning can be used to discover customer groups and explore purchasing behaviour through an interactive web application.
+
+## 📸 Project Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 2. Customer Cluster Distribution
+![Cluster Distribution](screenshots/cluster_distribution.png)
+
+### 3. Customer Spending Analysis
+![Spending Analysis](screenshots/spending_analysis.png)
+
+### 4. Customer Income Analysis
+![Income Analysis](screenshots/income_analysis.png)
+
+### 5. Cluster Profile
+![Cluster Profile](screenshots/cluster_profile.png)
+
+### 6. Customer Prediction Interface
+![Customer Prediction](screenshots/customer_prediction.png)
+
+### 7. Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
