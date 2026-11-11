@@ -139,6 +139,36 @@ The application will open in your browser.
 - Improved interactive visualizations
 - More detailed business recommendations
 
+---
+
+## 👥 Customer Segments and Business Insights
+
+Our KMeans clustering model divides customers into six groups
+based on their purchasing behaviour, income, demographics,
+and shopping patterns.
+
+| Cluster | Customer Segment | Business Insight |
+|---|---|---|
+| 0 | Older, Higher-Spending Customers | Consider loyalty programs and personalized offers. |
+| 1 | Lower-Spending Customers | Explore affordable product recommendations and introductory offers. |
+| 2 | Lower-to-Moderate Spending Customers | Encourage repeat purchases through relevant promotions. |
+| 3 | Moderate-to-High Spending Customers | Promote complementary products and customer retention campaigns. |
+| 4 | High-Value Customers | Focus on premium services, exclusive offers, and loyalty rewards. |
+| 5 | Lower-Spending, Frequent Web Visitors | Improve online engagement and provide relevant product recommendations. |
+
+### Key Business Benefits
+
+- Identify valuable customer groups.
+- Understand differences in customer purchasing behaviour.
+- Design targeted marketing campaigns.
+- Improve customer engagement and retention.
+- Support data-driven business decisions.
+
+**Note:** These segment names are descriptive interpretations
+of the cluster profiles, not labels provided by the original dataset.
+KMeans is an exploratory clustering model, so customers within
+different clusters may still have overlapping characteristics.
+
 ## Conclusion
 
 This project demonstrates how Unsupervised Machine Learning can be used to discover customer groups and explore purchasing behaviour through an interactive web application.
